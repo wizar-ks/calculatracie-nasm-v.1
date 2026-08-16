@@ -57,9 +57,6 @@ affcihage_nombre_negatif:
 
     jmp     continue
 
-int_vers_acii:
-
-
 ascii_vers_int:
     xor     rcx,rcx
     xor     rbx,rbx
